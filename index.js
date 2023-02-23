@@ -60,6 +60,9 @@ for (const token of TOKEN) {
         // Owo cash
         sendOwo('owocash', 60000)
 
+       //Auto wsc all
+       SendOwo('owo wsc all', 10000)
+
         // Auto afk
         autoAfk(58000)
     })
